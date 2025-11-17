@@ -137,6 +137,16 @@ Essential formulas and sizing methods
 | 🛠️ [**Design Procedures**](docs/design-procedures.md) | Step-by-step design methodology | Off-grid design, Grid-tied systems, Hybrid installations |
 | 🚀 [**Advanced Topics**](docs/advanced-topics.md) | Cutting-edge technologies & trends | AI optimization, IoT monitoring, Smart inverters, NEC 2023 updates |
 
+### 🏗️ Professional Implementation Guides
+
+| Document | Description | Key Topics |
+|----------|-------------|------------|
+| 📐 [**Project Sizing**](docs/project-sizing.md) | Size systems by space, budget & time | Residential/Commercial/Industrial sizing, Budget tiers, Timeline planning |
+| 💰 [**Cost Analysis**](docs/cost-analysis.md) | Detailed financial analysis & ROI | Component costs, Labor rates, Payback periods, Incentives (2025) |
+| 🔧 [**Installation Guide**](docs/installation-guide.md) | Step-by-step installation procedures | OSHA safety, Man-hour estimates, Tool checklists, Quality control |
+| 📦 [**Material Lists & BOMs**](docs/material-lists.md) | Bill of Materials templates | Complete BOMs for 3-100kW systems, Supplier guide, Procurement tips |
+| 📊 [**Detailed Case Studies**](docs/detailed-case-studies.md) | Real-world project examples | Off-grid cabin, Commercial warehouse, Industrial+storage with full financials |
+
 ---
 
 ## 🎯 Key Features
